@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+  {% include header.html %}
+
+      <div class="main">
+        <header class="mainheader">
+          <div class="titlehead">
+            {% if page.en == 'en'  %}
+            <a class="{{page.en}}"  href="{{ page.url }}"><h1>{{ page.title }}</h1></a>
+            {% else %}
+             <a  href="{{ page.url }}"><h1>{{ page.title }}</h1></a>
+             {% endif %}
+          </div>
+         <div class="bodyhead">
+           <p>{{page.detail}}</p>
+         </div>
+        </header>
+        {{ content }}
+      </div>
+
+</html>
