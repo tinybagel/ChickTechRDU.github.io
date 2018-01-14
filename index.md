@@ -9,12 +9,12 @@ layout: default
   <div class="fooditem">
     {% for item in site.data.foods %}
   <ul>
-    {% for project in item.foods %}
+    {% for food in item.foods %}
     <li>
-      <a href="{{project.url}}">
+      <a href="{{food.url}}">
         <div class="img">
-          <img width="384" src="{{project.img}}" alt="{{project.details}}">
-          <p>{{project.details}}</p>
+          <img width="400" height="400" src="{{food.img}}" alt="{{food.detail}}">
+          <p>{{food.detail}}</p>
         </div>
       </a>
     </li>

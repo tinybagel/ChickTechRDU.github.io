@@ -4,14 +4,12 @@ title: "Avocado Toast"
 date: 2018-01-13
 author: bizhang
 permalink: /avotoast/
-detail:
-comments: true
+detail: "literally the best thing ever!"
 en: en
+img: https://23209-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2016/04/5MinuteAvocadoToastIMG_8273edit-340x340.jpg
 ---
 
-<!--
-<img src="https://gimmedelicious.com/wp-content/uploads/2016/07/avocado-toast-7-of-13.jpg">
--->
+
 
 Making Avocado Toast
 --------------------
