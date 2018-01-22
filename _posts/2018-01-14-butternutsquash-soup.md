@@ -3,7 +3,7 @@ layout: food
 title: "ButterNut Squash Soup"
 date: 2018-01-14
 author: bizhang
-permalink: /buttersoup/
+permalink: ./buttersoup/
 detail: "bleh"
 comments: true
 en: en

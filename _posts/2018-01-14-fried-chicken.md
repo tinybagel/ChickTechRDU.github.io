@@ -3,7 +3,7 @@ layout: food
 title: "Fried Chicken"
 date: 2018-01-14
 author: mhrivnak
-permalink: /fried-chicken/
+permalink: ./fried-chicken/
 detail: "Crispy on the outside, tender and juicy on the inside!"
 comments: true
 en: en
