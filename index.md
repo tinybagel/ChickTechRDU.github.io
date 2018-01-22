@@ -7,18 +7,16 @@ layout: default
 
 <section class="food">
   <div class="fooditem">
-    {% for item in site.data.foods %}
   <ul>
-    {% for food in item.foods %}
+    {% for post in site.posts %}
     <li>
-      <a href="{{food.url}}">
+      <a href="{{site.baseurl}}{{post.url}}">
         <div class="img">
-          <img width="400" height="400" src="{{food.img}}" alt="{{food.detail}}">
-          <p>{{food.detail}}</p>
+          <img width="400" height="400" src="{{post.img}}" alt="{{post.detail}}">
+          <p>{{post.detail}}</p>
         </div>
       </a>
     </li>
     {% endfor %}
   </ul>
-  {% endfor %}
   </div>

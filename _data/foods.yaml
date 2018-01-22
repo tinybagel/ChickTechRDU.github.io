@@ -1,9 +1,0 @@
-- foods:
-  - name: "avo toast"
-    img: https://gimmedelicious.com/wp-content/uploads/2016/07/avocado-toast-7-of-13.jpg
-    url: "/avotoast/"
-    detail: "Best brunch item ever!"
-  - name: "butternut squash soup"
-    img: https://search.chow.com/thumbnail/1280/800/www.chowstatic.com/assets/2014/09/30466_butternut_squash_soup_3000x2000.jpg
-    url: "/buttersoup/"
-    detail: "It was OK"
