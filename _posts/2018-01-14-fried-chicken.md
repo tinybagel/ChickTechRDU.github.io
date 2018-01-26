@@ -5,8 +5,6 @@ date: 2018-01-14
 author: mhrivnak
 permalink: ./fried-chicken/
 detail: "Crispy on the outside, tender and juicy on the inside!"
-comments: true
-en: en
 img: https://upload.wikimedia.org/wikipedia/commons/e/e9/Fried_chicken_-_Arnold_Gatilao.jpg
 ---
 
