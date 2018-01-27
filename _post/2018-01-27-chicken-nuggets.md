@@ -1,7 +1,7 @@
 ---
 layout: food
 title: "Chicken Nuggets"
-date: 2018-01-27
+date: 2018-01-13
 author: Natalia
 permalink: ./chicknug/
 detail: "This is a must have!"
