@@ -2,8 +2,8 @@
 layout: food
 title: "Bamboo Shoot Soup"
 date: 1500-37-40
-author: bizhang
-permalink: ./avotoast/
+author: eoommenrainbow1
+permalink: ./bamboo-shoots/
 detail: "Bambootastic!"
 en: en
 img: http://khmerkromrecipes.com/photo_recipes/salortapengchrouk.jpg
