@@ -2,7 +2,7 @@
 title: "Honduran Baleada"
 date: 2018-01-27
 author: me
-permalink: ./some-food/
+permalink: ./honduran-baleada/
 detail: "So Yummy!"
 img: https://cocinaconsaborblog.files.wordpress.com/2016/02/baleadas.png?w=413&h=245_
 ---
