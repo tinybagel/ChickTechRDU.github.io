@@ -8,7 +8,7 @@ detail: "delicious!"
 img: https://minimalistbaker.com/strawberry-chia-watermelon-smoothie/
 ---
 
-I chose a watermelon smoothie because it has one of my favorite fruits, and it is the perfect drink for a hot summers day. I have included a like to a good reipie on how to make it. If you're not interested in this specific recipe, there are plenty more on the internet you can try or you can make your own!
+I chose a watermelon smoothie because it has one of my favorite fruits, and it is the perfect drink for a hot summers day. I have included the ingredients to a good reipie. If you're not interested in this specific recipe, there are plenty more on the internet you could try, or you can make your own!
 
 **Ingredients**
 1 1/2 cups (240 g) fresh watermelon, cubed (black seeds removed)
