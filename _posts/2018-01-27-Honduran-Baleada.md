@@ -10,7 +10,7 @@ img: https://cocinaconsaborblog.files.wordpress.com/2016/02/baleadas.png?w=413&h
 
 
 # <Honduran Baleada>
-Format: ![Alt Text](http://www.kraftrecipes.com/recipes/baleadas-137335.aspx)
+
 
 ## <Recipe>
 1.Mix flour, baking powder and salt in medium bowl. Stir in water and oil to form dough.
