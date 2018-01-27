@@ -3,18 +3,18 @@ layout: food
 title: "Smores Cake!"
 date: 2018-27-18
 author: Bridget Gab;e
-permalink: ./avotoast/
-detail: "literally the best thing ever!"
+permalink: ./IMG_0437.JPG
+detail: "Not quite a cake, not quite a cookie, not quite a browine, 100% heaven!"
 en: en
-img: https://23209-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2016/04/5MinuteAvocadoToastIMG_8273edit-340x340.jpg
----
+img: /IMG_0437.JPG
 
 
 
-Making Avocado Toast
+Smores Cake Recipe
 --------------------
 
-* obtain avocado
-* obtain toast
-* combine
-* eat
+* No idea
+* But it's really good
+* the recipe's probably on pinterest
+* have somebody make it for you
+* eat it
