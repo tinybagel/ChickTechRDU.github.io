@@ -19,4 +19,4 @@ img: https://cocinaconsaborblog.files.wordpress.com/2016/02/baleadas.png?w=413&h
 4.Heat large skillet on medium-high heat. Add tortillas in batches; cook 1 min. on each side until browned and lightly puffed.
 5.Spoon warm beans evenly over hot tortillas; top with remaining ingredients. Fold in half. Serve immediately. 
 
-http://www.kraftrecipes.com/recipes/baleadas-137335.aspx
+<a href="http://www.kraftrecipes.com/recipes/baleadas-137335.aspx">Click For More Information</a>
