@@ -7,7 +7,7 @@ permalink: ./IMG_0437.JPG
 detail: "Not quite a cake, not quite a cookie, not quite a brownie, 100% heaven!"
 en: en
 img: "/IMG_0437.JPG"
-
+---
 
 
 Smores Cake Recipe
