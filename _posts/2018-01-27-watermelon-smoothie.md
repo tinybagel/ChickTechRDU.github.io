@@ -1,5 +1,5 @@
 ---
-layout: Food
+layout: food
 title: "Watermelon Smoothie"
 date: 2018-01-27
 author: Ella
