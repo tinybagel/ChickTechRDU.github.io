@@ -1,7 +1,7 @@
 ---
 layout: food
 title: "Smores Cake!"
-date: 2018-27-18
+date: 2018-1-27
 author: Bridget Gable
 permalink: ./IMG_0437.JPG
 detail: "Not quite a cake, not quite a cookie, not quite a brownie, 100% heaven!"
