@@ -6,7 +6,7 @@ author: Bridget Gab;e
 permalink: ./IMG_0437.JPG
 detail: "Not quite a cake, not quite a cookie, not quite a browine, 100% heaven!"
 en: en
-img: /IMG_0437.JPG
+img: "/IMG_0437.JPG"
 
 
 
