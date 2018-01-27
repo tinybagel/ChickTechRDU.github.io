@@ -2,7 +2,7 @@
 layout: food
 title: " Tortellini Soup "
 date: 2018-01-27
-author: bizhang
+author: Juniorrain
 permalink: ./Tsoup/
 detail: "good for the snow days!"
 en: en
