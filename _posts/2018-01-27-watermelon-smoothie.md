@@ -2,7 +2,7 @@
 layout: Food
 title: "Watermelon Smoothie"
 date: 2018-01-27
-author: me
+author: Ella
 permalink: ./watermelon-smoothie/
 detail: "delicious!"
 img: https://minimalistbaker.com/strawberry-chia-watermelon-smoothie/
